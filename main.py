@@ -45,7 +45,7 @@ kmeans = KMeans(n_clusters=num_clusters)
 kmeans.fit(X_train)
 
 centroids = kmeans.cluster_centers_
-labels = kmeans.labels_
+labels = kmeans.labels_variation_b.ipynb
 
 closest_centroids = kmeans.predict(X_test)
 
