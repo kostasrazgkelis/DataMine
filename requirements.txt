@@ -1,0 +1,5 @@
+nbformat
+gensim
+nltk
+pandas
+scikit-learn
